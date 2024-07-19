@@ -1,0 +1,109 @@
+form{
+    width: 80%;
+    padding: 5px;
+    margin-top: 5%;
+    margin-left: 10%;
+}
+input{
+    padding: 5px;
+    width: 50%;
+    height: 30px;
+    border-radius: 9px;
+    margin-top: 1%;
+    border: solid 0.2px skyblue;
+}
+image{
+    width: 50px;
+    height: 50px;
+}
+h2{
+    margin-left: 3%;
+    font-size: 25px;
+}
+form{
+    border: 4px solid #869BEB;
+    border-radius: 20px;
+}
+.navbar{
+    display: flex;
+    margin-left: 60%;
+    margin-top: -4%;
+}
+.search-icon{
+    width: 20px;
+    height: 20px;
+    margin-top: 3%;
+}
+.harmburger-menu{
+    width: 50px;
+    height: 50px;
+    margin-left: 88%;
+    margin-top: -5%;
+}
+.weather-pic{
+    margin-left: 7%;
+    border-radius: 20px;
+    width: 1300px;
+    height: 600px;
+}
+.humidity{
+    display: flex;
+}
+.humidity-stats{
+    margin-top: 0.5%;
+    font-size: small;
+}
+.humidity-image{
+    width: 70px;
+    height: 70px;
+    margin-left: 100px;
+}
+.sunset{
+    display: flex;
+}
+.sunset-stats{
+    margin-top: 0.5%;
+    font-size: small;
+}
+.sunset-image{
+    width: 70px;
+    height: 70px;
+    margin-left: 100px;
+}
+.humidity-sunset{
+    display: flex;
+}
+.uv-sunrise{
+    display: flex;
+}
+.uv{
+    display: flex;
+}
+.uv-image{
+    width: 70px;
+    height: 70px;
+    margin-left: 100px;
+}
+.uv-stats{
+    margin-top: 0.5%;
+    font-size: small;
+}
+.sunrise{
+    display: flex;
+}
+.sunrise-stats{
+    margin-top: 0.5%;
+    font-size: small;
+}
+.sunrise-image{
+    width: 70px;
+    height: 70px;
+    margin-left: 100px;
+}
+
+
+.weather-principles img{
+width: 25px;
+height: 25px;
+
+}
